@@ -1,6 +1,6 @@
 # OS_COURSE_PROJECT
 
-Problem Statement: 
+# Problem Statement: 
 
 Implement the following algorithms in C or C++ without using existing/predefined classes. 
 
@@ -18,3 +18,14 @@ Draw the graph for the average time taken to execute the algorithms for differen
 Perform the complexity analysis.
 
 Write your comments/critical analysis/study report on your results and complexity. 
+
+# How to run:
+
+TO run
+
+1.	g++ <filename>.cpp -o <executable_file_name>
+2.	./<executable_file_name> number_of_frames \directory\<input_file>.txt
+
+Example: 
+	1. 	g++ LRU_counter.cpp -o LRU_counter
+	2. 	./LRU_counter 4 TEST_CASES\test2.txt
