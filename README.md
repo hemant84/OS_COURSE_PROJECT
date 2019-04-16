@@ -38,4 +38,4 @@ LRU_Aging_Register.cpp  ->      time complexity= O(size of page stream * Number 
 App_LRU_Clock_Algo.cpp	->	time complexity= O((frames + additional_cost) * size of page stream ) i.e. O((f+s_c)*p) (additional cot for maintaing the clock and giving 2nd chance <br/><br/>
 
 
-### Graphs and comparision of the algos along with explanation of corner and test cases are included in Report.docx file
+### Graphs and comparision of the algos along with explanation of test and corner test cases are included in Report.docx file
